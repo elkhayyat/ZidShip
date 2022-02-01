@@ -1,9 +1,9 @@
 # ZidShip
 
-ZidShip shipping intergration platform
-Developed By: Ahmed ElKhayyat
-Backend: Python - Django
-Created For: INOVOLA
+ZidShip shipping intergration platform <br>
+Developed By: Ahmed ElKhayyat <br>
+Backend: Python - Django <br>
+Created For: INOVOLA <br>
 
 ## Installation
 1- Clone this repository by using this command:

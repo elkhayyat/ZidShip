@@ -1,0 +1,8 @@
+db.sqlite3
+*.pyc
+.idea/
+.vscode/
+*.sqlite3
+uploads/
+venv/
+todo

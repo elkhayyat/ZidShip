@@ -22,9 +22,12 @@ source venv/bin/acitvate
 ```
 pip3 install -r requirements.txt
 ```
+5- Migrate Database
+```
+python3 manage.py migrate
+```
 5- Run python development sever
 ```
-cd Backend
 python3 manage.py runserver
 ```
 
